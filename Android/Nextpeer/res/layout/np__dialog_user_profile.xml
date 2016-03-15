@@ -1,0 +1,28 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@null"
+    android:orientation="vertical" >
+
+    <include
+        android:id="@+id/np__full_page_story_action_bar_layout"
+        layout="@layout/np__layout_dialog_action_bar" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:id="@+id/np__user_profile_stream_container"
+            android:layout_width="match_parent"
+            android:layout_height="fill_parent"
+            android:background="@color/np__transparent_background"
+            android:gravity="center_horizontal"
+            android:orientation="vertical" >
+
+            <include layout="@layout/np__layout_gamestream" />
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

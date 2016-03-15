@@ -1,0 +1,12 @@
+lastUpgrade=00927
+proj.AppId=1002957758743
+and.BundleId=com.sp.jumpersjam
+proj.classDir=Assets
+proj.ConstantsClassName=JumperGooglePlay
+and.ResourceData=%3c%3fxml+version%3d%221.0%22+encoding%3d%22utf-8%22%3f%3e%0d%0a%3c%21--%0d%0aGoogle+Play+game+services+IDs.%0d%0aSave+this+file+as+res%2fvalues%2fgames-ids.xml+in+your+project.%0d%0a--%3e%0d%0a%3cresources%3e%0d%0a++%3cstring+name%3d%22app_id%22%3e1002957758743%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22package_name%22%3ecom.sp.jumpersjam%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_level_1%22%3eCgkIl8LDp5gdEAIQAA%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_level_2%22%3eCgkIl8LDp5gdEAIQAQ%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_level_3%22%3eCgkIl8LDp5gdEAIQAg%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_level_4%22%3eCgkIl8LDp5gdEAIQAw%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_level_5%22%3eCgkIl8LDp5gdEAIQBA%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_level_6%22%3eCgkIl8LDp5gdEAIQBQ%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22leaderboard_high_score%22%3eCgkIl8LDp5gdEAIQBg%3c%2fstring%3e%0d%0a%3c%2fresources%3e%0d
+and.ClientId=1002957758743-amn3m32qi2rbgvah0vbmr9nn5nibj89k.apps.googleusercontent.com
+android.SetupDone=true
+ios.ClientId=164826413818-s2sqhieps17jqv2nu0hhg075k6ks1qmh.apps.googleusercontent.com
+ios.ResourceData=%23define+CLIENT_ID+%40%22164826413818-s2sqhieps17jqv2nu0hhg075k6ks1qmh.apps.googleusercontent.com%22%0d%0a%23define+BUNDLE_ID+%40%22com.sp.test.jumper%22%0d%0a%23define+ACH_LEV1+%40%22CgkI-vWtg-YEEAIQAQ%22%0d%0a%23define+ACH_LEV2+%40%22CgkI-vWtg-YEEAIQAg%22%0d%0a%23define+ACH_LEV3+%40%22CgkI-vWtg-YEEAIQAw%22%0d%0a%23define+ACH_LEV4+%40%22CgkI-vWtg-YEEAIQBA%22%0d%0a%23define+ACH_LEV5+%40%22CgkI-vWtg-YEEAIQBQ%22%0d%0a%23define+LEAD_HIGH+%40%22CgkI-vWtg-YEEAIQBg%22
+ios.BundleId=com.sp.test.jumper
+ios.SetupDone=true
